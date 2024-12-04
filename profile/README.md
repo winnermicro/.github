@@ -6,7 +6,7 @@ WinnerMicro provides a series of secure Wi-Fi/Bluetooth dual-mode SoC chips for 
 
 Welcome to WinnerMicro's Wi-Fi/Bluetooth Dual-mode SoC Chips! 🎉
 
-We provide comprehensive [online documentation](https://doc.winnermicro.net/w800/zh_CN/latest/) to help you quickly understand our product features and technical details. Check out our [Quick Start Guide](https://doc.winnermicro.net/w800/zh_CN/latest/get_started/index.html) to begin your development journey!
+We provide comprehensive [WM IoT SDK Programming Guide](https://doc.winnermicro.net/w800/zh_CN/latest/) to help you quickly understand our product features and technical details. Check out our [Quick Start Guide](https://doc.winnermicro.net/w800/zh_CN/latest/get_started/index.html) to begin your development journey!
 
 ## 📦 Resources
 
