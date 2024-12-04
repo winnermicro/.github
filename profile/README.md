@@ -13,8 +13,8 @@ We provide comprehensive [WM IoT SDK Programming Guide](https://doc.winnermicro.
 Here are the resources to help you get started:
 
 - 📖 Documentation: [Quick Start Guide](https://doc.winnermicro.net/w800/zh_CN/latest/get_started/index.html)
-- 💻 Source Code: [wm_iot_sdk](https://github.com/WinnerMicro/wm_iot_sdk)
-- 🔖 Releases: [Release Versions](https://github.com/WinnerMicro/wm_iot_sdk/releases)
+- 💻 Source Code: [wm_iot_sdk](https://github.com/winnermicro/wm_iot_sdk)
+- 🔖 Releases: [Release Versions](https://github.com/winnermicro/wm_iot_sdk/releases)
 - 📝 Examples & Demos: [Examples & Demos](https://doc.winnermicro.net/w800/zh_CN/latest/examples_reference/index.html)
-- 🤝 Contributing: [Contribution Guidelines](https://github.com/WinnerMicro/wm_iot_sdk/blob/master/CONTRIBUTING_EN.md)
+- 🤝 Contributing: [Contribution Guidelines](https://github.com/winnermicro/wm_iot_sdk/blob/master/CONTRIBUTING_EN.md)
 - 🏢 Official Website: [WinnerMicro](https://www.winnermicro.com/)
